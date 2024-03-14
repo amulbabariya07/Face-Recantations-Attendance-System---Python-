@@ -28,3 +28,6 @@ pip install -r requirements.txt
 Make sure you have Python installed on your machine. You can download it from here.
 
 Ensure you have a compatible webcam connected to your system for face recognition functionality.
+
+# Also Download This :-
+cmake-3.28.0-rc3

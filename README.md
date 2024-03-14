@@ -29,5 +29,5 @@ Make sure you have Python installed on your machine. You can download it from he
 
 Ensure you have a compatible webcam connected to your system for face recognition functionality.
 
-# Also Download This :-
+## Also Download This
 cmake-3.28.0-rc3

@@ -33,8 +33,6 @@ Ensure you have a compatible webcam connected to your system for face recognitio
 cmake-3.28.0-rc3
 
 # Output 
-![Screenshot 2023-11-27 233416](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/f258faa8-56c4-4a13-ae7e-9c568ace7254)
-
 
 ![Screenshot 2023-11-27 233416](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/3fafb0ab-15c0-4f5c-8181-4cfcfe2ef814)
 

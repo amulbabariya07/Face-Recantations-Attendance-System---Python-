@@ -41,7 +41,7 @@ cmake-3.28.0-rc3
 ![Screenshot 2023-11-27 234552](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/a5e6bab1-3103-4c24-99ef-ddf46ba863d8)
 
 
-![Screenshot 2023-11-27 234013](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/40c5c943-4063-4923-8d0c-0849577cd049)4
+![Screenshot 2023-11-27 234013](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/40c5c943-4063-4923-8d0c-0849577cd049)
 
 
 ![Screenshot 2023-11-27 234013](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/49f633f9-e050-49d2-bfb2-b1cc925cc774)

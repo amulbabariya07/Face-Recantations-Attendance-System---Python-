@@ -31,3 +31,27 @@ Ensure you have a compatible webcam connected to your system for face recognitio
 
 ## Also Download This
 cmake-3.28.0-rc3
+
+# Output 
+![Screenshot 2023-11-27 233416](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/f258faa8-56c4-4a13-ae7e-9c568ace7254)
+
+
+![Screenshot 2023-11-27 233416](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/3fafb0ab-15c0-4f5c-8181-4cfcfe2ef814)
+
+![Screenshot 2023-11-27 233709](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/d6cb340d-775a-423f-90e3-1f13afdc0052)
+
+![Screenshot 2023-11-27 234552](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/a5e6bab1-3103-4c24-99ef-ddf46ba863d8)
+
+
+![Screenshot 2023-11-27 234013](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/40c5c943-4063-4923-8d0c-0849577cd049)4
+
+
+![Screenshot 2023-11-27 234013](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/49f633f9-e050-49d2-bfb2-b1cc925cc774)
+
+![Screenshot 2023-11-28 000346](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/6403f7f5-a6b2-41da-bc1f-56fa60b993a8)
+
+
+![Screenshot 2023-11-28 000346](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/a41651a7-64a5-41b7-941d-ae3d93edec0b)
+
+![WhatsApp Image 2024-03-14 at 23 55 16_e01ad2b2](https://github.com/amulbabariya07/Face-Recantations-Attendance-System---Python-/assets/163302433/5c63da36-bace-41e7-b6de-af2c99ac5fc8)
+
